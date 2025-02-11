@@ -1,3 +1,4 @@
 egy sor
-harmadik sor
-hetedik sor
+ötödik sorr
+kilencedik sogit add .
+git r
